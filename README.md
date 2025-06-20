@@ -26,3 +26,5 @@
 
 <h1>Preview</h1>
 
+![Screen Recording 2025-06-20 at 15 56 45](https://github.com/user-attachments/assets/35f6c955-b950-4a9a-a53e-9f02a051cf0c)
+
